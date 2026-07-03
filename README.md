@@ -1,6 +1,4 @@
 # Pipeline-anac-databricks
-<img width="1253" height="577" alt="data_gold com" src="https://github.com/user-attachments/assets/a03df09f-f37a-47c2-864d-80365631f5cd" />
-<img width="1253" height="577" alt="data_gold com" src="https://github.com/user-attachments/assets/49585071-04ee-47e2-980a-82037115d614" />
 
 # ✈️ Pipeline de Dados ANAC - Arquitetura Medalhão no Databricks
 
@@ -44,3 +42,6 @@ Os scripts foram desenvolvidos para rodar na versão Community/Free do Databrick
 1. Clone este repositório para o seu Workspace utilizando a integração via "Git Folders" (Repos).
 2. Certifique-se de configurar os Volumes (Bronze e Silver) e o Schema no Unity Catalog antes de executar.
 3. Rode os notebooks na ordem cronológica: `01_Bronze` ➔ `02_Silver` ➔ `03_Gold`.
+
+
+<img width="1253" height="577" alt="data_gold com" src="https://github.com/user-attachments/assets/a03df09f-f37a-47c2-864d-80365631f5cd" />
